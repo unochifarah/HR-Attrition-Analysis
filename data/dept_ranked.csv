@@ -1,0 +1,4 @@
+"department","total_employees","left_count","attrition_rate","avg_salary","avg_satisfaction","risk_rank","vs_company_avg"
+"Sales","446","92","20.63","6959","2.75","1","2.79"
+"Human Resources","63","12","19.05","6655","2.60","2","1.21"
+"Research & Development","961","133","13.84","6281","2.73","3","-4.00"
